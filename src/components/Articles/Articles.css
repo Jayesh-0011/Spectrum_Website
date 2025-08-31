@@ -1,0 +1,16 @@
+.articles {
+    border: 2px solid black;
+}
+.articles {
+    background: url("https://cdn.vectorstock.com/i/500p/65/62/magnetic-field-light-effect-with-sparks-vector-55506562.jpg"), 
+                linear-gradient(160deg, #0d0d0d, #1a1a2e);
+                background-size: 100% auto;
+    box-shadow: 0 0 20px rgba(0,0,0,0.8);
+}
+
+
+
+
+
+
+

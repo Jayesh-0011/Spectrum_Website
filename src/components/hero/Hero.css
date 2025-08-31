@@ -1,0 +1,7 @@
+.hero {
+    background: url('https://img.freepik.com/free-vector/gradient-world-science-day-background_52683-97461.jpg') no-repeat center center;
+    background-size: cover;
+}
+.hero-content {
+    transform: translate(-50%, -50%);
+}
